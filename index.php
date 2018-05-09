@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "xd";
-         echo "x2";
+         echo "123123123";
         ?>
     </body>
 </html>
